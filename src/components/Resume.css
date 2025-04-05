@@ -1,0 +1,127 @@
+/* General Styles for Resume Page */
+.resume {
+  padding: 60px 20px;
+  background-color: #f4f6f9;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  margin-bottom: 60px;
+  background: linear-gradient(to right, #3498db, #2d3a4b);
+  color: #ffffff;
+  padding: 60px 20px;
+  border-radius: 0 0 20px 20px;
+}
+
+.hero-title {
+  font-size: 3.5rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.hero-subtitle {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.hero-contact {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+/* Resume Sections */
+.resume-sections {
+  margin-top: 40px;
+}
+
+/* Card Styling */
+.resume-card {
+  border: none;
+  background-color: #ffffff;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin-bottom: 40px; /* Increased space between cards */
+}
+
+.resume-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
+
+.resume-card .card-body {
+  padding: 30px;
+}
+
+/* Section Title Styling */
+.section-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #3498db;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Icon Styling */
+.section-title svg {
+  vertical-align: middle;
+  margin-right: 10px;
+  color: #3498db;
+}
+
+/* List Styling */
+.card-text ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.card-text ul li {
+  margin-bottom: 10px;
+}
+
+/* Responsive Design Adjustments */
+@media (max-width: 768px) {
+  .resume-card .card-body {
+    padding: 20px;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.2rem;
+  }
+
+  .hero-contact {
+    font-size: 1rem;
+  }
+
+  .section-title {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .hero-title {
+    font-size: 2rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1rem;
+  }
+
+  .hero-contact {
+    font-size: 0.9rem;
+  }
+
+  .section-title {
+    font-size: 1.25rem;
+  }
+}

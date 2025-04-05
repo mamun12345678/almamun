@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa1feaeb.css",
+    "main.js": "/static/js/main.af5299ec.js",
+    "static/media/eidPic.jpg": "/static/media/eidPic.d43bec61a424ad72cbd6.jpg",
+    "static/media/graduationVideo.mp4": "/static/media/graduationVideo.d61a5ff23761a6f32811.mp4",
+    "static/media/posterdayPic.jpg": "/static/media/posterdayPic.c59f2c7008a3eeab492f.jpg",
+    "static/media/posterdayPic2.jpg": "/static/media/posterdayPic2.ed3767edf88fbdc5ea31.jpg",
+    "static/media/background.jpg": "/static/media/background.a77b90b7c01e3ee9fba5.jpg",
+    "static/media/graduationPic.jpg": "/static/media/graduationPic.52b3c67b781929d91c47.jpg",
+    "static/media/theMetro.jpg": "/static/media/theMetro.bed3a5c82745bf4e6262.jpg",
+    "static/media/heroPic.jpg": "/static/media/heroPic.647846a1ed2a0895845e.jpg",
+    "index.html": "/index.html",
+    "main.fa1feaeb.css.map": "/static/css/main.fa1feaeb.css.map",
+    "main.af5299ec.js.map": "/static/js/main.af5299ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa1feaeb.css",
+    "static/js/main.af5299ec.js"
+  ]
+}
