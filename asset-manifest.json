@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/almamun/static/css/main.ecc87f24.css",
+    "main.js": "/almamun/static/js/main.51340ab9.js",
+    "static/media/eidPic.jpg": "/almamun/static/media/eidPic.d43bec61a424ad72cbd6.jpg",
+    "static/media/graduationVideo.mp4": "/almamun/static/media/graduationVideo.d61a5ff23761a6f32811.mp4",
+    "static/media/posterdayPic.jpg": "/almamun/static/media/posterdayPic.c59f2c7008a3eeab492f.jpg",
+    "static/media/posterdayPic2.jpg": "/almamun/static/media/posterdayPic2.ed3767edf88fbdc5ea31.jpg",
+    "static/media/background.jpg": "/almamun/static/media/background.a77b90b7c01e3ee9fba5.jpg",
+    "static/media/graduationPic.jpg": "/almamun/static/media/graduationPic.52b3c67b781929d91c47.jpg",
+    "static/media/theMetro.jpg": "/almamun/static/media/theMetro.bed3a5c82745bf4e6262.jpg",
+    "static/media/heroPic.jpg": "/almamun/static/media/heroPic.647846a1ed2a0895845e.jpg",
+    "index.html": "/almamun/index.html",
+    "main.ecc87f24.css.map": "/almamun/static/css/main.ecc87f24.css.map",
+    "main.51340ab9.js.map": "/almamun/static/js/main.51340ab9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecc87f24.css",
+    "static/js/main.51340ab9.js"
+  ]
+}
