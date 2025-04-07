@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFacebook, faInstagram, faLinkedin, faGithub } from '@fortawesome/free-brands-svg-icons';
 import { Container, Row, Col } from 'react-bootstrap';
@@ -27,7 +28,9 @@ const Footer = () => {
               Email: <a href="mailto:o.md.abdullahalmamun@gmail.com" className="footer-link">mdabdullah.almamun.one@gmail.com</a>
             </p>
             <p className="footer-text">
-              Location: 5 Westbourne Road, Luton | LU4 8JD
+              Present Address: Luton, LU4 8JD | UK 
+             <br/>
+              Home Address: Osmaninagar, Sylhet | Bangladesh
             </p>
             <div className="social-icons">
               <a href="https://www.linkedin.com/in/md-abdullah-al-mamun-aa05a5212/" className="social-icon" target="_blank" rel="noopener noreferrer">
@@ -39,7 +42,7 @@ const Footer = () => {
               <a href="https://www.facebook.com/profile.php?id=100022551855378" className="social-icon" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faFacebook} />
               </a>
-              <a href="https://www.instagram.com/o.md.abdullahalmamun/" className="social-icon" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.instagram.com/a.al.m_a_m_u_n/" className="social-icon" target="_blank" rel="noopener noreferrer">
                 <FontAwesomeIcon icon={faInstagram} />
               </a>
             </div>
@@ -49,12 +52,12 @@ const Footer = () => {
           <Col xs={12} md={4} className="footer-col">
             <h5 className="footer-title">Quick Links</h5>
             <ul className="list-unstyled footer-links">
-              <li><a href="/" className="footer-link">Home</a></li>
-              <li><a href="/blog" className="footer-link">Blog</a></li>
-              <li><a href="/portfolio" className="footer-link">Portfolio</a></li>
-              <li><a href="/about" className="footer-link">About</a></li>
-              <li><a href="/resume" className="footer-link">Resume</a></li>
-              <li><a href="/contact" className="footer-link">Contact</a></li>
+              <li><Link to="/" className="footer-link">Home</Link></li>
+              <li><Link to="/blog" className="footer-link">Blog</Link></li>
+              <li><Link to="/portfolio" className="footer-link">Portfolio</Link></li>
+              <li><Link to="/about" className="footer-link">About</Link></li>
+              <li><Link to="/resume" className="footer-link">Resume</Link></li>
+              <li><Link to="/contact" className="footer-link">Contact</Link></li>
             </ul>
           </Col>
         </Row>

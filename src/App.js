@@ -10,11 +10,13 @@ import ContactForm from './components/ContactForm';
 import Home from './components/Home';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container } from 'react-bootstrap';
+import ScrollToTop from './components/ScrollToTop'; // import the new component
 import './App.css';
 
 function App() {
   return (
     <Router basename="/">
+      <ScrollToTop />
       <NavBar />
       <Container className="mt-5">
         <Routes>

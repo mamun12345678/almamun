@@ -11,7 +11,7 @@ const Resume = () => {
         <h1 className="hero-title">Md Abdullah Al Mamun</h1>
         <p className="hero-subtitle">Desktop & Media Service Technician | IT Support Enthusiast</p>
         <p className="hero-contact">
-          mdabdullah.almamun.one@gmail.com | 07394032549 | 5 Westbourne Road, Luton
+          mdabdullah.almamun.one@gmail.com | 07394032549 | Westbourne Road, Luton
         </p>
       </section>
 
