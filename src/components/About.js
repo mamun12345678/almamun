@@ -30,7 +30,7 @@ const About = () => {
         <p>
         I’m currently part of the ICT department at the University of Bedfordshire, where I work as a Desktop and Media Services Technician. My day-to-day involves helping students and staff with everything tech—solving hardware and software issues, setting up multimedia equipment for lectures and events, and ensuring systems run smoothly. It’s hands-on, fast-paced, and always evolving—just the way I like it.        </p>
         <p>
-        Before stepping into this technical role, I spent over two years managing The Metro Café at Beds SU. It wasn’t just about coffee and orders—it was about creating a welcoming space for students, leading a team, and making sure every service ran like clockwork. My efforts were recognised when I was proudly awarded "Student Staff of the Year" two years in a row. During that time, I even built a website for the café, blending my love for tech with creativity.        </p>
+        Before stepping into this technical role, I spent almost three years managing The Metro Café at Beds SU. It wasn’t just about coffee and orders—it was about creating a welcoming space for students, leading a team, and making sure every service ran like clockwork. My efforts were recognised when I was proudly awarded "Student Staff of the Year" two years in a row. During that time, I even built a website for the café, blending my love for tech with creativity.        </p>
         <p>
         Teaching has also played a part in my journey. Back in Bangladesh, I taught students from Class 1 to 12 and prepared learners for the IELTS exam. Creating lessons that matched different learning styles helped me develop empathy, patience, and communication—skills that still guide me today.        </p>
         <p>
@@ -40,7 +40,7 @@ const About = () => {
         <p>
         Beyond the screen, I’m passionate about table tennis, chess, and taking part in community events and cultural activities. I love keeping up with new trends in educational technology, and I strongly value collaboration, diversity, and inclusion in every space I’m part of.        </p>
         <p> 
-        Looking ahead, my goal is to dive deeper into the world of cybersecurity. I’m currently applying to pursue a Master’s in Cyber Security—a step I believe will help me make a real impact in protecting digital systems and data in today’s world.</p>
+        Looking ahead, my goal is to dive deeper into the world of cybersecurity. Focusing on Cyber Security—a step I believe will help me make a real impact in protecting digital systems and data in today’s world.</p>
         <p>
         Every chapter of my journey—whether in teaching, tech support, leadership, or learning—has brought me closer to who I am today: someone driven by purpose, passionate about IT, and ready to take on what’s next.</p>
       </div>

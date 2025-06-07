@@ -28,7 +28,7 @@ const Footer = () => {
               Email: <a href="mailto:o.md.abdullahalmamun@gmail.com" className="footer-link">mdabdullah.almamun.one@gmail.com</a>
             </p>
             <p className="footer-text">
-              Present Address: Luton, LU4 8JD | UK 
+              Present Address: Luton, Bedfordshire | UK 
              <br/>
               Home Address: Osmaninagar, Sylhet | Bangladesh
             </p>
@@ -63,7 +63,7 @@ const Footer = () => {
         </Row>
         <Row className="footer-bottom">
           <Col className="text-center">
-            <p className="footer-text footer-bottom-text">&copy; {new Date().getFullYear()} MD Abdullah Al Mamun. All rights reserved.</p>
+            <p className="footer-text footer-bottom-text">&copy; {new Date().getFullYear()} | Md Abdullah Al Mamun | All Rights Reserved</p>
           </Col>
         </Row>
       </Container>

@@ -13,7 +13,7 @@ const projects = [
     title: 'The Metro Website',
     description: 'A website for The Metro Cafe, showcasing daily specials and events. Built with modern web technologies.',
     image: theMetroImage,
-    link: 'https://the-metro.netlify.app/'
+    link: ''
   }
   // Add more projects here
 ];
@@ -40,15 +40,15 @@ const Portfolio = () => {
                     <ul className={styles.list}>
                       <li>
                         First, run the backend server: 
-                        <a href="https://the-metro-backend.onrender.com/" target="_blank" rel="noopener noreferrer" className={styles.link}> Backend Server</a>
+                        <a href="" target="_blank" rel="noopener noreferrer" className={styles.link}> Backend Server</a>
                       </li>
                       <li>
                         Then, run the frontend: 
-                        <a href="https://the-metro.netlify.app/" target="_blank" rel="noopener noreferrer" className={styles.link}> Frontend</a>
+                        <a href="" target="_blank" rel="noopener noreferrer" className={styles.link}> Frontend</a>
                       </li>
                     </ul>
                   </div>
-                  <Button variant="primary" href={project.link} target="_blank">View Project</Button>
+                  <Button variant="primary" href={project.link} target="_blank">"View Project – This site is under maintenance and will be published soon."</Button>
                 </Card.Body>
               </Card>
             </Col>

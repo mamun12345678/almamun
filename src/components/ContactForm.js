@@ -22,7 +22,7 @@ const ContactForm = () => {
                 <p><strong>Company:</strong> University of Bedfordshire</p>
                 <p><FaPhone /> <strong>Phone:</strong> +447394032549</p>
                 <p><FaEnvelope /> <strong>Email:</strong> mdabdullah.almamun.one@gmail.com</p>
-                <p><FaMapMarkerAlt /> <strong>Location:</strong> Westbourne Road, Luton, Bedfordshire, LU4 8JD</p>
+                <p><FaMapMarkerAlt /> <strong>Location:</strong> Luton, Bedfordshire, UK</p>
                 
                 
               </Card.Text>
