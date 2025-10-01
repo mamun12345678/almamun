@@ -54,7 +54,6 @@ const Footer = () => {
             <ul className="list-unstyled footer-links">
               <li><Link to="/" className="footer-link">Home</Link></li>
               <li><Link to="/blog" className="footer-link">Blog</Link></li>
-              <li><Link to="/portfolio" className="footer-link">Portfolio</Link></li>
               <li><Link to="/about" className="footer-link">About</Link></li>
               <li><Link to="/resume" className="footer-link">Resume</Link></li>
               <li><Link to="/contact" className="footer-link">Contact</Link></li>
