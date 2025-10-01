@@ -2,7 +2,6 @@ import React from 'react';
 import { HashRouter as Router, Route, Routes } from 'react-router-dom';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
-import Portfolio from './components/Portfolio';
 import Blog from './components/Blog';
 import Resume from './components/Resume';
 import About from './components/About';
@@ -21,7 +20,6 @@ function App() {
       <Container className="mt-5">
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/about" element={<About />} />

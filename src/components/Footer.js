@@ -14,7 +14,7 @@ const Footer = () => {
           <Col xs={12} md={4} className="footer-col">
             <h5 className="footer-title">About Me</h5>
             <p className="footer-text">
-              I am Md Abdullah Al Mamun, a recent Computer Science graduate from the University of Bedfordshire, currently working as a Desktop and Media Service Technician.
+              I am Md Abdullah Al Mamun, a Computer Science graduate, currently pursuing an MSc in Cybersecurity from the University of Bedfordshire. Experienced in IT support and ICT infrastructure, with a strong passion for cybersecurity, seeking opportunities to apply technical expertise in cybersecurity and IT solutions.
             </p>
           </Col>
 

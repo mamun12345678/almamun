@@ -9,7 +9,7 @@ const Resume = () => {
       {/* Hero Section */}
       <section className="hero">
         <h1 className="hero-title">Md Abdullah Al Mamun</h1>
-        <p className="hero-subtitle">Desktop & Media Service Technician | IT Support Enthusiast</p>
+        <p className="hero-subtitle">MSc Student | Cybersecurity | University of Bedfordshire</p>
         <p className="hero-contact">
           mdabdullah.almamun.one@gmail.com | 07394032549 | Luton, Bedfordshire, UK
         </p>
@@ -23,10 +23,7 @@ const Resume = () => {
               <Card.Body>
                 <Card.Title className="section-title"><FaBriefcase /> Objectives</Card.Title>
                 <Card.Text>
-                A dedicated Computer Science graduate from the University of Bedfordshire, currently working
-as a Desktop and Media Services Technician in the university's ICT department. Passionate
-about cybersecurity, IT infrastructure, and system security, with a strong background in IT
-support, networking, and digital security practices.
+                Computer Science graduate, currently pursuing an MSc in Cybersecurity from the University of Bedfordshire. Experienced in IT support and ICT infrastructure, with a strong passion for cybersecurity, seeking opportunities to apply technical expertise in cybersecurity and IT solutions.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -39,7 +36,7 @@ support, networking, and digital security practices.
               <Card.Body>
                 <Card.Title className="section-title"><FaBriefcase /> Experience</Card.Title>
                 <Card.Text>
-                  <strong>Desktop and Media Services Technician</strong>, ICT Department, University of Bedfordshire <em>(February 2024 - Present)</em>
+                  <strong>Desktop and Media Services Technician</strong>, ICT Department, University of Bedfordshire <em>(February 2024 - August 2025)</em>
                   <ul>
                     <li>Nominated for the University’s Beds Star Award in the Compassionate category.</li>
                     <li>Provide comprehensive IT support to students and staff, ensuring smooth technology operations.</li>
@@ -75,9 +72,15 @@ support, networking, and digital security practices.
               <Card.Body>
                 <Card.Title className="section-title"><FaGraduationCap /> Education</Card.Title>
                 <Card.Text>
+
+<strong>M.Sc. in Cybersecurity</strong>, University of Bedfordshire <em>(September 2025 - Present)</em>
+                  <ul>
+                    <li>One of the Student Representative of the Course</li>
+                  </ul>
+
                   <strong>B.Sc. Honors in Computer Science</strong>, University of Bedfordshire <em>(September 2020 - June 2023)</em>
                   <ul>
-                    <li>Worked as a Quality Manager using agile project management.</li>
+                  
                     <li>Undergraduate Project Awards: “Best Commercial Project” - 3rd Place, “Best Project Presentation and Poster” - 2nd Place.</li>
                     <li>Roles: Enactus Bedfordshire Marketing Officer, Computing Society Vice-President, Bangladeshi Society President.</li>
                   </ul>

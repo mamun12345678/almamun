@@ -16,7 +16,6 @@ const Home = () => {
         <Container className="hero-container">
           <h1 className="hero-title">WELCOME TO MY WEBSITE</h1>
           <p className="hero-subtitle">Md Abdullah Al Mamun</p>
-          <Button variant="primary" as={Link} to="/portfolio" className="hero-button">View My Work</Button>
         </Container>
       </section>
 

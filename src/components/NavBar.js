@@ -14,7 +14,6 @@ const NavBar = () => {
           <Nav className="ml-auto">
             <Nav.Link as={NavLink} to="/" className="nav-link">Home</Nav.Link>
             <Nav.Link as={NavLink} to="/blog" className="nav-link">Blog</Nav.Link>
-            <Nav.Link as={NavLink} to="/portfolio" className="nav-link">Portfolio</Nav.Link>
             <Nav.Link as={NavLink} to="/about" className="nav-link">About</Nav.Link>
             <Nav.Link as={NavLink} to="/resume" className="nav-link">Resume</Nav.Link>
             <Nav.Link as={NavLink} to="/contact" className="nav-link">Contact</Nav.Link>

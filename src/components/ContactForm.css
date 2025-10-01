@@ -38,6 +38,14 @@
   transform: translateY(-10px);
 }
 
+.contact-form:hover {
+  transform: translateY(-10px);
+}
+
+.contact-form-title:hover {
+  transform: translateY(-10px);
+}
+
 .contact-card .card-title {
   font-size: 2rem;
   color: #007bff;

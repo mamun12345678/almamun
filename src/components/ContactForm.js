@@ -16,15 +16,13 @@ const ContactForm = () => {
             <Card.Body>
               <Card.Title>Contact Information</Card.Title>
               <Card.Text>
-              <p><strong>Name:</strong> Md Abdullah Al Mamun</p>
-              <p><strong>Profession:</strong> Desktop and Media Service Technician</p>
-                <p><strong>Department:</strong> ICT</p>
-                <p><strong>Company:</strong> University of Bedfordshire</p>
-                <p><FaPhone /> <strong>Phone:</strong> +447394032549</p>
-                <p><FaEnvelope /> <strong>Email:</strong> mdabdullah.almamun.one@gmail.com</p>
-                <p><FaMapMarkerAlt /> <strong>Location:</strong> Luton, Bedfordshire, UK</p>
-                
-                
+              <p><strong>Name:&nbsp;</strong> Md Abdullah Al Mamun</p>
+              <p><strong>Status:&nbsp;</strong> MSc Student</p>
+                <p><strong>Program:&nbsp;</strong> Cybersecurity</p>
+                <p><strong>University:&nbsp;</strong> University of Bedfordshire</p>
+      <p><FaPhone style={{ marginRight: '5px' }} /> <strong>Phone:&nbsp;</strong> +44 7394 032 549</p>
+      <p><FaEnvelope style={{ marginRight: '5px' }} /> <strong>Email:&nbsp;</strong> mdabdullah.almamun.one@gmail.com</p>
+      <p><FaMapMarkerAlt style={{ marginRight: '5px' }} /> <strong>Location:&nbsp;</strong> Luton, Bedfordshire, UK</p>
               </Card.Text>
             </Card.Body>
           </Card>
