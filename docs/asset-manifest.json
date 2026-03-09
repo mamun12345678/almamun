@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad9be09d.css",
-    "main.js": "/static/js/main.aa39a4d3.js",
+    "main.css": "/static/css/main.b1364207.css",
+    "main.js": "/static/js/main.c7267bf5.js",
+    "static/media/voteMamun.png": "/static/media/voteMamun.a69795f067869612452a.png",
     "static/media/eidPic.jpg": "/static/media/eidPic.d43bec61a424ad72cbd6.jpg",
     "static/media/graduationVideo.mp4": "/static/media/graduationVideo.d61a5ff23761a6f32811.mp4",
     "static/media/posterdayPic.jpg": "/static/media/posterdayPic.c59f2c7008a3eeab492f.jpg",
@@ -10,11 +11,11 @@
     "static/media/graduationPic.jpg": "/static/media/graduationPic.52b3c67b781929d91c47.jpg",
     "static/media/heroPic.jpg": "/static/media/heroPic.647846a1ed2a0895845e.jpg",
     "index.html": "/index.html",
-    "main.ad9be09d.css.map": "/static/css/main.ad9be09d.css.map",
-    "main.aa39a4d3.js.map": "/static/js/main.aa39a4d3.js.map"
+    "main.b1364207.css.map": "/static/css/main.b1364207.css.map",
+    "main.c7267bf5.js.map": "/static/js/main.c7267bf5.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad9be09d.css",
-    "static/js/main.aa39a4d3.js"
+    "static/css/main.b1364207.css",
+    "static/js/main.c7267bf5.js"
   ]
 }
