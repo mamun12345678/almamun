@@ -9,7 +9,7 @@ const PublishedBlog = () => {
       <p style="text-align: center;" >Over the next few weeks, I will be rolling out some updates. <strong>Stay tuned!</strong></p>
     `,
     author: "Mamun",
-    date: "9th March 2026",
+    date: "",
   };
 
   return (
