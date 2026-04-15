@@ -6,7 +6,7 @@ const PublishedBlog = () => {
   const blog = {
     title: "Updates Coming Soon!",
     content: `
-      <p style="text-align: center;" >Over the next few weeks, I will be rolling out some updates. <strong>Stay tuned!</strong></p>
+      <p style="text-align: center;" >Over the next few weeks, I will be rolling out some updates. Stay tuned!</p>
     `,
     author: "Mamun",
     date: "",
